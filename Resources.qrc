@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>img/abstract-blue-blue-homescreen-wallpaper-wallpaper-preview.jpg</file>
+        <file>img/black-background.png</file>
+        <file>img/trash.png</file>
+    </qresource>
+</RCC>

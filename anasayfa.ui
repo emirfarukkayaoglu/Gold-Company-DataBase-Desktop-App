@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>anasayfa</class>
+ <widget class="QDialog" name="anasayfa">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>561</width>
+    <height>401</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(240, 240, 240);</string>
+  </property>
+  <widget class="QGroupBox" name="groupBox">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>30</y>
+     <width>221</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string/>
+   </property>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>75</x>
+      <y>10</y>
+      <width>71</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 14pt &quot;Segoe UI&quot;;</string>
+    </property>
+    <property name="text">
+     <string>ALIŞLAR</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_alis">
+    <property name="geometry">
+     <rect>
+      <x>55</x>
+      <y>60</y>
+      <width>111</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Alışları Göster</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QGroupBox" name="groupBox_2">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>220</y>
+     <width>221</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string/>
+   </property>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>10</y>
+      <width>81</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 14pt &quot;Segoe UI&quot;;</string>
+    </property>
+    <property name="text">
+     <string>BORÇLAR</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_borc">
+    <property name="geometry">
+     <rect>
+      <x>55</x>
+      <y>60</y>
+      <width>111</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Borçları Göster</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QGroupBox" name="groupBox_3">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>30</y>
+     <width>221</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string/>
+   </property>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>10</y>
+      <width>81</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 14pt &quot;Segoe UI&quot;;</string>
+    </property>
+    <property name="text">
+     <string>SATIŞLAR</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_satis">
+    <property name="geometry">
+     <rect>
+      <x>55</x>
+      <y>60</y>
+      <width>111</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Satışları Göster</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QGroupBox" name="groupBox_4">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>220</y>
+     <width>221</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string/>
+   </property>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>65</x>
+      <y>10</y>
+      <width>91</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 14pt &quot;Segoe UI&quot;;</string>
+    </property>
+    <property name="text">
+     <string>TAMİRLER</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_tamir">
+    <property name="geometry">
+     <rect>
+      <x>55</x>
+      <y>60</y>
+      <width>111</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Tamirleri Göster</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
